@@ -30,6 +30,9 @@ Pillow (Manipulação de imagens)
 sv-ttk (Tema moderno para tkinter)
 ```
 
+## Licença
+Este projeto está licenciado sob a [MIT License.](https://opensource.org/license/mit)
+
 ## ⚠️ Aviso Legal
 
 O Prohm é uma ferramenta para conversão de imagens e download de vídeos para **uso pessoal e educacional**.  
