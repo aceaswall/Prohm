@@ -29,3 +29,11 @@ yt-dlp (Download de vídeos do YouTube)
 Pillow (Manipulação de imagens)
 sv-ttk (Tema moderno para tkinter)
 ```
+
+## ⚠️ Aviso Legal
+
+O Prohm é uma ferramenta para conversão de imagens e download de vídeos para **uso pessoal e educacional**.  
+**Não incentive ou permita o download de conteúdo protegido por direitos autorais sem permissão.**  
+
+O desenvolvedor **não se responsabiliza** pelo uso indevido do software.  
+O uso do Prohm para baixar vídeos do YouTube pode violar os Termos de Serviço do YouTube.
