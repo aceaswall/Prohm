@@ -11,6 +11,12 @@ git clone https://github.com/seu-usuario/Prohm.git
 cd Prohm
 pip install -r requirements.txt
 ```
+## Telas
+![Prohm Image](https://github.com/aceaswall/Prohm/blob/main/Prohm_Image.gif)
+![Prohm Video](https://github.com/aceaswall/Prohm/blob/main/Prohm_Video.gif)
+![Prohm Audio](https://github.com/aceaswall/Prohm/blob/main/Prohm_Audio.gif)
+
+
 
 ## Como usar
 Execute o programa com:
